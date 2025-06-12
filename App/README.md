@@ -1,13 +1,14 @@
 ---
 title: Drug Classification
-emoji: 👁
-colorFrom: indigo
-colorTo: yellow
+emoji: 😻
+colorFrom: green
+colorTo: pink
 sdk: gradio
-sdk_version: 5.32.0
-app_file: drug_app.py
+sdk_version: 5.33.2
+app_file: app.py
 pinned: false
-license: mit
+license: apache-2.0
+short_description: SUML CI/CD
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
